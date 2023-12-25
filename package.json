@@ -1,0 +1,20 @@
+{
+  "name": "spl-wallet-generator",
+  "version": "1.0.0",
+  "description": "Reserved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bs58": "^5.0.0",
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
